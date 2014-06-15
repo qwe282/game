@@ -1,0 +1,17 @@
+{
+  "name": "WarTrail",
+  "version": "0.1.3",
+  "description": "WarTrail, defend your turf!",
+  "main": "index.html",
+  "window": {
+    "icon": "icon32.png",
+    "toolbar": false,
+    "width": 1024,
+    "height": 748,
+    "position": "center",
+    "resizable": false
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
